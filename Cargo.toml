@@ -1,0 +1,11 @@
+[package]
+name = "repler"
+version = "0.1.0"
+authors = ["Ludwig Austermann <ludwig.austermann@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+serde = "1.0"
+serde_derive = "1.0"
+serde_json = "1.0"
+clap = "2.33"
